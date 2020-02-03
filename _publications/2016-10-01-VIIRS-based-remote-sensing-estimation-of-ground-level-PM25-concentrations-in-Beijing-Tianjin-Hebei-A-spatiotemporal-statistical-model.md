@@ -1,7 +1,7 @@
 ---
 title: "VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing-Tianjin-Hebei: A spatiotemporal statistical model"
 collection: publications
-permalink: /publication/2016-10-01-VIIRS-based-remote-sensing-estimation-of-ground-level-PM2.5-concentrations-in-Beijing-Tianjin-Hebei-A-spatiotemporal-statistical-model
+permalink: /publication/2016-10-01-VIIRS-based-remote-sensing-estimation-of-ground-level-PM25-concentrations-in-Beijing-Tianjin-Hebei-A-spatiotemporal-statistical-model
 excerpt: 'We proposed a novel spatiotemporal statistical model to estimate ground-level PM<sub>2.5</sub> concentrations from the aerosol optical depth retrieved from the Visible Infrared Imaging Radiometer Suite (VIIRS) instrument over Beijing-Tianjin-Hebei region. This is one of the earliest empirical studies that examine the remote sensing retrievals of ground-level PM<sub>2.5</sub> concentrations from VIIRS in China.'
 date: 2016-10-01
 venue: 'Remote Sensing of Environment'
