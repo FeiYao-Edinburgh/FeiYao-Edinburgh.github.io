@@ -12,4 +12,4 @@ We proposed a novel conceptual framework for discerning tree species from plant 
 
 [Download paper here](http://zlxb.zafu.edu.cn/CN/abstract/abstract1071.shtml)
 
-Recommended citation: <b>Yao Fei</b>, Ye Kang, Zhou Jianhua. 2015. Automatic image classification and retrieval by analyzing plant leaf features. <u><i>Journal of Zhejiang A & F University</i></u>. 32(3): 426-433.
+# Recommended citation: <b>Yao Fei</b>, Ye Kang, Zhou Jianhua. 2015. Automatic image classification and retrieval by analyzing plant leaf features. <u><i>Journal of Zhejiang A & F University</i></u>. 32(3): 426-433.

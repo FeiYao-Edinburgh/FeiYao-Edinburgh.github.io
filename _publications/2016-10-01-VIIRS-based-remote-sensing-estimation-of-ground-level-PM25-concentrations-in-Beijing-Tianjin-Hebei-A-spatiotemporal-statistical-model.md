@@ -12,4 +12,4 @@ We proposed a novel spatiotemporal statistical model to estimate ground-level PM
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0034425716302735)
 
-Recommended citation: Wu Jiansheng, <b>Yao Fei</b>, Li Weifeng<sup> *</sup>, Si Menglin. 2015. VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing-Tianjin-Hebei: A spatiotemporal statistical model. <u><i>Remote Sensing of Environment</i></u>. 184: 316-328.
+# Recommended citation: Wu Jiansheng, <b>Yao Fei</b>, Li Weifeng<sup> *</sup>, Si Menglin. 2015. VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing-Tianjin-Hebei: A spatiotemporal statistical model. <u><i>Remote Sensing of Environment</i></u>. 184: 316-328.
