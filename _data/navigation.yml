@@ -21,6 +21,9 @@ main:
   - title: "Life"
     url: /life/
 
+  - title: "Contact"
+    url: /contact/
+
   # - title: "Portfolio"
     # url: /portfolio/
         
