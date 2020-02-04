@@ -7,10 +7,24 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-- Tutor for: [Earth's Atmospheric Composition](https://sites.google.com/view/palmerteachinglab/home/atmoscomp?authuser=0) (Spring 2020)
-- Demonstrator for: Visual Analytics (Spring 2019), [Welcome Week Computing Induction](https://www.geos.ed.ac.uk/~gisteac/wkzero/) (Autumn 2019)
-- Reviewer for Academic Journals: [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (2017-), [Environmental Science & Technology](https://pubs.acs.org/journal/esthag) (2017-) see [My ACS Reviewer Certificate](https://feiyao-edinburgh.github.io/files/acs_reviewer_certificate.pdf), [Aerosol and Air Quality Research](http://www.aaqr.org/) (2018-), [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (2019-)
-- Volunteer for: The 8<sup>th</sup> National Youth Ecological Worker Symposium (2016.11), The 10<sup>th</sup> International Association for China Planning Conference (2016.07)
-- Short-term visiting at: Nanjing University (2013.07), University of Science and Technology of China (2013.07), and The University of Hong Kong (2014.01) as a part of the Innovative Training Program for Excellent Undergraduates of East China Normal University
-- Participant of: The 5<sup>th</sup> Cross-Regional Joint Field Trip of the National Training Base, Geography (2013.08)
+- Tutor for<br/>
+  [Earth's Atmospheric Composition](https://sites.google.com/view/palmerteachinglab/home/atmoscomp?authuser=0) (Spring 2020)
+- Demonstrator for<br/>
+  Visual Analytics (Spring 2019)<br/>
+  [Welcome Week Computing Induction](https://www.geos.ed.ac.uk/~gisteac/wkzero/) (Autumn 2019)
+- Reviewer for Academic Journals<br/>
+  [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (2017-)<br/>
+  [Environmental Science & Technology](https://pubs.acs.org/journal/esthag) (2017-), see [My ACS Reviewer Certificate](https://feiyao-edinburgh.github.io/files/acs_reviewer_certificate.pdf)<br/>
+  [Aerosol and Air Quality Research](http://www.aaqr.org/) (2018-)<br/>
+  [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (2019-)
+- Volunteer for<br/>
+  The 8<sup>th</sup> National Youth Ecological Worker Symposium (2016.11)<br/>
+  The 10<sup>th</sup> International Association for China Planning Conference (2016.07)
+- Short-term visiting at<br/>
+  Nanjing University (2013.07)<br/>
+  University of Science and Technology of China (2013.07)<br/>
+  The University of Hong Kong (2014.01)<br/>
+  <b>NB</b> These serve as a part of the Innovative Training Program for Excellent Undergraduates of East China Normal University
+- Participant of<br/>
+  The 5<sup>th</sup> Cross-Regional Joint Field Trip of the National Training Base, Geography (2013.08)
 
