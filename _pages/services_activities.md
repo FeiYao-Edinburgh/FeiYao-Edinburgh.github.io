@@ -14,7 +14,7 @@ author_profile: true
   - Welcome Week Computing Induction (Autumn 2019)
 - Reviewer for Academic Journals:
   - [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (2017-)
-  - [Environmental Science & Technology](https://pubs.acs.org/journal/esthag) (2017-) ([My ACS Reviewer Certificate](https://github.com/FeiYao-Edinburgh/FeiYao-Edinburgh.github.io/blob/master/files/acs_reviewer_certificate.pdf))
+  - [Environmental Science & Technology](https://pubs.acs.org/journal/esthag) (2017-) ([My ACS Reviewer Certificate](https://feiyao-edinburgh.github.io/files/acs_reviewer_certificate.pdf))
   - [Aerosol and Air Quality Research](http://www.aaqr.org/) (2018-)
   - [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (2019-)
 - Volunteer for:
