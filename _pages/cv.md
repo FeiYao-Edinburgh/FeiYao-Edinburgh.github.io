@@ -54,6 +54,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service & Activities
 ======
-* Currently signed in to 43 different slack teams
+- Tutor for: [Earth's Atmospheric Composition](https://sites.google.com/view/palmerteachinglab/home/atmoscomp?authuser=0) (Spring 2020)
+- Demonstrator for: Visual Analytics (Spring 2019), Welcome Week Computing Induction (Autumn 2019)
+- Reviewer for Academic Journals: [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (2017-), [Environmental Science & Technology](https://pubs.acs.org/journal/esthag) (2017-), [Aerosol and Air Quality Research](http://www.aaqr.org/) (2018-), [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (2019-)
+- 
