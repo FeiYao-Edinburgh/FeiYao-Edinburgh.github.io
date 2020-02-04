@@ -20,11 +20,11 @@ author_profile: true
 - Volunteer for<br/>
   The 8<sup>th</sup> National Youth Ecological Worker Symposium (2016.11)<br/>
   The 10<sup>th</sup> International Association for China Planning Conference (2016.07)
-- Short-term visiting<sup>\*</sup> at<br/>
+- Short-term visiting at<br/>
+  <i>(These serve as a part of the Innovative Training Program for Excellent Undergraduates of East China Normal University)</i>
   Nanjing University (2013.07)<br/>
   University of Science and Technology of China (2013.07)<br/>
   The University of Hong Kong (2014.01)<br/>
-  <sup>\*</sup> These serve as a part of the Innovative Training Program for Excellent Undergraduates of East China Normal University
 - Participant of<br/>
   The 5<sup>th</sup> Cross-Regional Joint Field Trip of the National Training Base, Geography (2013.08)
 
