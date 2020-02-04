@@ -17,7 +17,7 @@ redirect_from:
 
 ### [Publications](https://feiyao-edinburgh.github.io/publications/)
 
-### [Presentations]((https://feiyao-edinburgh.github.io/presentations/))
+### [Presentations](https://feiyao-edinburgh.github.io/presentations/)
 
 ### Honors & Awards (Selected)
 - China Scholarships Council (CSC)/University of Edinburgh Scholarships, awarded by CSC, 2018.06
