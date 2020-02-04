@@ -13,3 +13,4 @@ There are still some issues need to be addressed...
 - Update homepage in my cv on overleaf.
 - Remove unnecessary dirs like posts, portfolio
 - [ResearcherID](https://publons.com/researcher/2061962/fei-yao/)
+- Long future try to modify colors and styles if applicable
