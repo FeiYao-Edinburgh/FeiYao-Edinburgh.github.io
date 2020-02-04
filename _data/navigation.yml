@@ -9,6 +9,15 @@ main:
   - title: "Education"
     url: /education/
     
+  - title: "Honors"
+    url: /honors_awards/
+
+  - title: "Service"
+    url: /service_activities/
+
+  - title: "Skills"
+    url: /skills/
+
   # - title: "Teaching"
     # url: /teaching/    
     
