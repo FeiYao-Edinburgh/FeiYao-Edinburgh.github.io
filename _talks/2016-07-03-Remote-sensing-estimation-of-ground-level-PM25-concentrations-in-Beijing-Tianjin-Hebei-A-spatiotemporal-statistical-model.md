@@ -5,5 +5,5 @@ type: "Oral Presentation"
 permalink: /talks/2016-07-03-Remote-sensing-estimation-of-ground-level-PM25-concentrations-in-Beijing-Tianjin-Hebei-A-spatiotemporal-statistical-model
 venue: "The 10<sup>th</sup> International Association for China Planning (IACP) Conference, hosted by IACP and Peking University"
 date: 2016-07-03
-location: "Beijing, China"
+location: "Beijing, China, 30 June - 3 July"
 ---
