@@ -5,18 +5,12 @@ permalink: /contact/
 author_profile: true
 ---
 
-School of GeoSciences
-
-The University of Edinburgh
-
-Room Attic
-
-Crew Building
-
-The King's Buildings
-
-Alexander Crum Brown Road
-
-Edinburgh, EH9 3FF
+School of GeoSciences<br/>
+The University of Edinburgh<br/>
+Room Attic<br/>
+Crew Building<br/>
+The King's Buildings<br/>
+Alexander Crum Brown Road<br/>
+Edinburgh, EH9 3FF<br/>
 
 Email: fei(dot)yao(at)ed(dot)ac(dot)uk
