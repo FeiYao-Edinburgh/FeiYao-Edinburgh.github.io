@@ -3,8 +3,6 @@ layout: archive
 title: "Service & Activities"
 permalink: /service_activities/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 <!-- {% include base_path %} -->

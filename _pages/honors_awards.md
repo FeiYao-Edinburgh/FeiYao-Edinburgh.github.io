@@ -3,8 +3,6 @@ layout: archive
 title: "Honors & Awards"
 permalink: /honors_awards/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 <!-- {% include base_path %} -->
