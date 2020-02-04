@@ -7,10 +7,10 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-- Programming
-  - Proficient: Python, Shell
-  - Intermediate: Fortran, MATLAB, R, C
-  - Basic: Perl, IDL, C#, Stata
-- Models
-  - Proficient: Panel Data Regression Models, Geographically Weighted Regression Models
-  - Intermediate: [GEOS-Chem](http://acmg.seas.harvard.edu/geos/)
+- Programming<br/>
+  Proficient: Python, Shell<br/>
+  Intermediate: Fortran, MATLAB, R, C<br/>
+  Basic: Perl, IDL, C#, Stata
+- Models<br/>
+  Proficient: Panel Data Regression Models, Geographically Weighted Regression Models<br/>
+  Intermediate: [GEOS-Chem](http://acmg.seas.harvard.edu/geos/)
