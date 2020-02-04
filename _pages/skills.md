@@ -14,4 +14,4 @@ author_profile: true
 
 ### Models
 - Proficient: Panel Data Regression Models, Geographically Weighted Regression Models
-- Intermediate: GEOS-Chem
+- Intermediate: [GEOS-Chem](http://acmg.seas.harvard.edu/geos/)
