@@ -20,7 +20,7 @@ author_profile: true
 - Volunteer for:
   - The 8<sup>th</sup> National Youth Ecological Worker Symposium (2016.11)
   - The 10<sup>th</sup> International Association for China Planning Conference (2016.07)
--  As a part of the Innovative Training Program for Excellent Undergraduates of East China Normal University, short-term visiting at:
+- As a part of the Innovative Training Program for Excellent Undergraduates of East China Normal University, short-term visiting at:
   - Nanjing University (2013.07)
   - University of Science and Technology of China (2013.07)
   - The University of Hong Kong (2014.01)
