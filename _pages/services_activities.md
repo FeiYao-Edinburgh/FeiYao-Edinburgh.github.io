@@ -7,9 +7,8 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-- Tutor for<br/>
+- Tutor & Demonstrator for<br/>
   [Earth's Atmospheric Composition](https://sites.google.com/view/palmerteachinglab/home/atmoscomp?authuser=0) (Spring 2020)
-- Demonstrator for<br/>
   Visual Analytics (Spring 2019)<br/>
   [Welcome Week Computing Induction](https://www.geos.ed.ac.uk/~gisteac/wkzero/) (Autumn 2019)
 - Reviewer for Academic Journals<br/>
