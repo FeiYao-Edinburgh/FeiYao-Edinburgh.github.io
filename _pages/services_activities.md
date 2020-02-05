@@ -14,7 +14,7 @@ author_profile: true
 - Reviewer for Academic Journals<br/>
   [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (2019-)<br/>
   [Aerosol and Air Quality Research](http://www.aaqr.org/) (2018-)<br/>
-  [Environmental Science & Technology](https://pubs.acs.org/journal/esthag) (2017-), see [My ACS Reviewer Certificate](https://feiyao-edinburgh.github.io/files/acs_reviewer_certificate.pdf)<br/>
+  [Environmental Science & Technology](https://pubs.acs.org/journal/esthag) (2017-), see [my ACS Reviewer Certificate](https://feiyao-edinburgh.github.io/files/acs_reviewer_certificate.pdf)<br/>
   [Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment) (2017-)
 - Volunteer for<br/>
   The 8<sup>th</sup> National Youth Ecological Worker Symposium (2016.11)<br/>
