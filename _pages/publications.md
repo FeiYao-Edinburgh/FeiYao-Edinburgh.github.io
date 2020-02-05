@@ -7,16 +7,6 @@ author_profile: true
 
 (\* denotes corresponding author)
 
-<!-- {% if author.googlescholar %} -->
-  <!-- You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> -->
-<!-- {% endif %} -->
-
-<!-- {% include base_path %} -->
-
-<!-- {% for post in site.publications reversed %} -->
-  <!-- {% include archive-single.html %} -->
-<!-- {% endfor %} -->
-
 <ol>
 <li value=7>Wu Jiansheng, Liang Jingtian, Zhou Liguo, <b>Yao Fei</b>, Peng Jian<sup>*</sup>. 2019. Impacts of AOD Correction and Spatial Scale on the Correlation between High-Resolution AOD from Gaofen-1 Satellite and In Situ PM<sub>2.5</sub> Measurements in Shenzhen City, China. <i>Remote Sensing</i>. 11(19): 2223. doi: https://www.mdpi.com/2072-4292/11/19/2223.</li>
 <li value=6><b>Yao Fei</b>, Wu Jiansheng<sup>*</sup>, Li Weifeng<sup>*</sup>, Peng Jian. 2019. A spatially structured adaptive two-stage model for retrieving ground-level PM<sub>2.5</sub> concentrations from VIIRS AOD in China. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>. 151: 263-276. doi: https://www.sciencedirect.com/science/article/pii/S0924271619300814.</li>
