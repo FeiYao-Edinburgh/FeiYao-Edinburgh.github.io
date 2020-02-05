@@ -21,7 +21,7 @@ author_profile: true
   The 10<sup>th</sup> International Association for China Planning Conference (2016.07)
 - Short-term visiting at<br/>
   <i>(These serve as a part of the Innovative Training Program for Excellent Undergraduates of East China Normal University)</i><br/>
-  The University of Hong Kong (2014.01)<br/>
+  The University of Hong Kong (2014.01), see [my certificate]()<br/>
   University of Science and Technology of China (2013.07)<br/>
   Nanjing University (2013.07)
 - Participant of<br/>
