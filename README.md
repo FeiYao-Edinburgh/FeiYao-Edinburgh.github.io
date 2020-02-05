@@ -9,8 +9,6 @@ There are still some issues need to be addressed...
 - footer
 - Upload images, slides, and comments/responses if applicable for each paper. Note that the url cited should be something like https://feiyao-edinburgh.github.io/files/FeiCV.pdf. All files stored in files.
 - Update the map contents under Life menu
-- Upload Best Student Paper Award pdf files and make update in Honors.
-- Update homepage in my cv on overleaf.
 - Remove unnecessary dirs like posts, portfolio
 - [ResearcherID](https://publons.com/researcher/2061962/fei-yao/)
 - Long future try to modify colors and styles if applicable
