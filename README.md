@@ -14,3 +14,4 @@ There are still some issues need to be addressed...
 - Remove unnecessary dirs like posts, portfolio
 - [ResearcherID](https://publons.com/researcher/2061962/fei-yao/)
 - Long future try to modify colors and styles if applicable
+- upload HKU certificate
