@@ -11,17 +11,17 @@ Life and academy are mutually beneficial. I would like to travel ten thousand mi
 <!-- <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe> -->
 
 <table class="multi">
-<caption class="cap">2020</caption>
+<caption style="font-size:24pt">2020</caption>
 <tr>
 <th class="title">Author</th>
 <th class="title">Title</th>
 </tr>
 <tr>
-<th class="title">林杉</th>
-<th class="title">林徽因传</th>
+<td valign="center" align='center'>林杉</th>
+<td valign="center" align='center'>林徽因传</th>
 </tr>
 <tr>
-<th class="title">莫言</th>
-<th class="title">酒国</th>
+<td valign="center" align='center'>莫言</th>
+<td valign="center" align='center'>酒国</th>
 </tr>
 </table>
