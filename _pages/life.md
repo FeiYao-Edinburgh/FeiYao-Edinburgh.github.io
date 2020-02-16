@@ -34,4 +34,4 @@ Places
 - <b>2010</b>: Hefei, Anhui, China (Oct)
 - <b>2009 and before</b>: Chizhou, Anhui, China
 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+- <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
