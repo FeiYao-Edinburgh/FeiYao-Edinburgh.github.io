@@ -22,7 +22,6 @@ Life and academy are mutually beneficial. I would like to travel ten thousand mi
 <th class="title">林徽因传</th>
 </tr>
 <tr>
-<th valign="center" align="center" rowspan=2>2020</th>
 <th class="title">莫言</th>
 <th class="title">酒国</th>
 </tr>
