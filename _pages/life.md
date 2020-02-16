@@ -17,11 +17,11 @@ Life and academy are mutually beneficial. I would like to travel ten thousand mi
 <th class="title">Title</th>
 </tr>
 <tr>
-<td valign="center" align='center'>林杉</th>
-<td valign="center" align='center'>林徽因传</th>
+<td valign="center" align='center'>林杉</td>
+<td valign="center" align='center'>林徽因传</td>
 </tr>
 <tr>
-<td valign="center" align='center'>莫言</th>
-<td valign="center" align='center'>酒国</th>
+<td valign="center" align='center'>莫言</td>
+<td valign="center" align='center'>酒国</td>
 </tr>
 </table>
