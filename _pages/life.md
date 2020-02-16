@@ -22,6 +22,7 @@ Books
 Places
 ======
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+
 - <b>2020</b>: Leeds, UK (Jun)
 - <b>2019</b>: Paris/Strasbourg, France (Dec); Belfast, UK (Jul); Cambridge/Boston, MA, US (May); Leeds, UK (May); London, UK (Feb); Glasgow, UK (Jan)
 - <b>2018</b>: Oxford/Birmingham, UK (Dec); Oxford, UK (Nov); <b>Edinburgh, UK</b> (Sep); Beijing, China (Jul); Hong Kong, China, Siem Reap, Cambodia, Phuket/Pattaya/Chiang Mai/Bangkok, Thailand (Jun); Beijing, China (Jan)
