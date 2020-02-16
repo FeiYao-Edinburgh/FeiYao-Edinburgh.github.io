@@ -9,8 +9,8 @@ main:
   - title: "Education"
     url: /education/
     
-  - title: "Honors"
-    url: /honors_awards/
+  # - title: "Honors"
+    # url: /honors_awards/
 
   - title: "Services"
     url: /services_activities/
@@ -21,8 +21,8 @@ main:
   - title: "Life"
     url: /life/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+    # url: /contact/
 
   # - title: "Portfolio"
     # url: /portfolio/
