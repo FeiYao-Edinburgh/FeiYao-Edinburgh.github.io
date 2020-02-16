@@ -11,6 +11,7 @@ Life and academy are mutually beneficial. I would like to travel ten thousand mi
 <!-- <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe> -->
 
 <table class="multi">
+<caption class="cap"></caption>
 <tr>
 <th class="title">Year</th>
 <th class="title">Author</th>
