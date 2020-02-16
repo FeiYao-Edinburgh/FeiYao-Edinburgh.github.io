@@ -21,7 +21,7 @@ Books
 
 Places
 ======
-<!-- <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe> -->
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 - <b>2020</b>: Leeds, UK (Jun)
 - <b>2019</b>: Paris/Strasbourg, France (Dec); Belfast, UK (Jul); Cambridge/Boston, MA, US (May); Leeds, UK (May); London, UK (Feb); Glasgow, UK (Jan)
 - <b>2018</b>: Oxford/Birmingham, UK (Dec); Oxford, UK (Nov); <b>Edinburgh, UK</b> (Sep); Beijing, China (Jul); Hong Kong, China, Siem Reap, Cambodia, Phuket/Pattaya/Chiang Mai/Bangkok, Thailand (Jun); Beijing, China (Jan)
@@ -29,7 +29,7 @@ Places
 - <b>2016</b>: Hong Kong, China (Sep and Aug); Beijing, China (Sep, Jul, and Jun); Huizhou, Guangdong, China (Jun); Guangzhou, Guangdong, China (May)
 - <b>2015</b>: Guangzhou, Guangdong, China (Dec); Beijing, Shenyang, Liaoning, China (Nov); Zhoushan, Zhejiang, China (May); <b>Shenzhen, Guangdong, China</b> (Mar)
 - <b>2014</b>: Hong Kong, Shenzhen, Guangdong, Wuyishan/Fuzhou, Fujian, China (Jul); Beijing, China (Jun and Sep); Hong Kong, China (Jan)
-- <b>2013</b>: Hangzhou, Zhejiang, Dalian/Dandong, Liaoning, Tonghua/erdaobaiheTown/Changchun, Jilin, Beijing, China (Aug); Hefei, Anhui, Nanjing, Jiangsu, China (Jul)
+- <b>2013</b>: Hangzhou, Zhejiang, Dalian/Dandong, Liaoning, Tonghua/erdaobaiheTown/Changchun, Jilin, Chengde, Hebei, Beijing, China (Aug); Hefei, Anhui, Nanjing, Jiangsu, China (Jul)
 - <b>2012</b>: Shaoxing/Ningbo, Zhejiang, China (Oct); Nanjing/Suzhou, Jiangsu, China (May); Xitang, Zhejiang, China (Mar)
 - <b>2011</b>: <b>Shanghai, China</b> (Sep)
 - <b>2010</b>: Hefei, Anhui, China (Oct)
