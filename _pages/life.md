@@ -17,8 +17,8 @@ Books
 
 Places
 ======
-- 2019: Strasbourg, France (2019.12), Paris, France (2019.12), Belfast, UK (2019.07), Cambridge/Boston, MA, US (2019.05), Leeds, UK (2019.05), London, UK (2019.02), Glasgow, UK (2019.01)
-- 2018: Oxford, UK (2018.11 & 2018.12), Edinburgh, UK (2018.09), Beijing, China (2018.07), Siem Reap, Cambodia (2018.06), Phuket/Pattaya/Chiang Mai/Bangkok, Thailand (2018.06)
+- 2019: Strasbourg/Paris, France (12), Belfast, UK (07), Cambridge/Boston, MA, US (05), Leeds, UK (05), London, UK (02), Glasgow, UK (01)
+- 2018: Oxford, UK (11 & 12), <b>Edinburgh, UK (09)</b>, Beijing, China (07), Siem Reap, Cambodia (06), Phuket/Pattaya/Chiang Mai/Bangkok, Thailand (06)
 
 
 <!-- <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe> -->
