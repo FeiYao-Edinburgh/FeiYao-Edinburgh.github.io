@@ -19,12 +19,12 @@ Books
 - <b>2015 and before</b>: 因为痛，所以叫青春（金兰都著，金勇译）
 
 
-Places
+[Places](https://feiyao-edinburgh.github.io/files/map.html)
 ======
 - <b>2020</b>: Leeds, UK (Jun)
 - <b>2019</b>: Paris/Strasbourg, France (Dec); Belfast, UK (Jul); Cambridge/Boston, MA, US (May); Leeds, UK (May); London, UK (Feb); Glasgow, UK (Jan)
 - <b>2018</b>: Oxford/Birmingham, UK (Dec); Oxford, UK (Nov); <b>Edinburgh, UK</b> (Sep); Beijing, China (Jul); Hong Kong, China, Siem Reap, Cambodia, Phuket/Pattaya/Chiang Mai/Bangkok, Thailand (Jun); Beijing, China (Jan)
-- <b>2017</b>: Macao, Guilin/Shangri-la/Lijiang, Yunan, China (Jun); Wuhan, Hubei, China (Mar); Fuzhou, Fujian, China (Feb)
+- <b>2017</b>: Macao, Guilin, Guangxi, Shangri-la/Lijiang, Yunan, China (Jun); Wuhan, Hubei, China (Mar); Fuzhou, Fujian, China (Feb)
 - <b>2016</b>: Hong Kong, China (Sep and Aug); Beijing, China (Sep, Jul, and Jun); Huizhou, Guangdong, China (Jun); Guangzhou, Guangdong, China (May)
 - <b>2015</b>: Guangzhou, Guangdong, China (Dec); Beijing, Shenyang, Liaoning, China (Nov); Zhoushan, Zhejiang, China (May); <b>Shenzhen, Guangdong, China</b> (Mar)
 - <b>2014</b>: Hong Kong, Shenzhen, Guangdong, Wuyishan/Fuzhou, Fujian, China (Jul); Beijing, China (Jun and Sep); Hong Kong, China (Jan)
@@ -34,4 +34,3 @@ Places
 - <b>2010</b>: Hefei, Anhui, China (Oct)
 - <b>2009 and before</b>: Chizhou, Anhui, China
 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
