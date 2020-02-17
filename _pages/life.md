@@ -28,8 +28,8 @@ Places
 - <b>2016</b>: Hong Kong, China (Sep and Aug); Beijing, China (Sep, Jul, and Jun); Huizhou, Guangdong, China (Jun); Guangzhou, Guangdong, China (May)
 - <b>2015</b>: Guangzhou, Guangdong, China (Dec); Beijing, Shenyang, Liaoning, China (Nov); Zhoushan, Zhejiang, China (May); <b>Shenzhen, Guangdong, China</b> (Mar)
 - <b>2014</b>: Hong Kong, Shenzhen, Guangdong, Wuyishan/Fuzhou, Fujian, China (Jul); Beijing, China (Jun and Sep); Hong Kong, China (Jan)
-- <b>2013</b>: Hangzhou, Zhejiang, Dalian/Dandong, Liaoning, Tonghua/Baishan/Changchun, Jilin, Chengde, Hebei, Beijing, China (Aug); Hefei/Lu'an, Anhui, Nanjing, Jiangsu, China (Jul)
-- <b>2012</b>: Shaoxing/Ningbo, Zhejiang, China (Oct); Nanjing/Suzhou, Jiangsu, China (May); Xitang, Zhejiang, China (Mar)
+- <b>2013</b>: Hangzhou, Zhejiang, Dalian/Dandong, Liaoning, Tonghua/Erdaobaihe/Changchun, Jilin, Chengde, Hebei, Beijing, China (Aug); Hefei/Lu'an, Anhui, Nanjing, Jiangsu, China (Jul)
+- <b>2012</b>: Shaoxing/Ningbo, Zhejiang, China (Oct); Nanjing/Suzhou, Jiangsu, China (May); Xitang, Jiaxing, Zhejiang, China (Mar)
 - <b>2011</b>: <b>Shanghai, China</b> (Sep)
 - <b>2010</b>: Hefei, Anhui, China (Oct)
 - <b>2009 and before</b>: Chizhou, Anhui, China
