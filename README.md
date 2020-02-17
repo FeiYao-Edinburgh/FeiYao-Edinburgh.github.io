@@ -14,5 +14,7 @@ There are still some issues need to be addressed...
 - Long future try to modify colors and styles if applicable
 - upload HKU certificate
 - Sweep groupmeeting directory asap...
-- install life env and use it to update place map.
+- install life env and use it to update place map (Done! Adjust places map to fullscreen in the future if applicable.).
+
+- Sweep other useless directories on weekends.
 
