@@ -8,7 +8,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 Life and academy are mutually beneficial. I would like to travel ten thousand miles as well as read ten thousand books! Below I show you all the places that I have visisted and all the books that I have read so far.<br/>
-(<u>Items</u> denote recommended ones from my personal point of view)
+(<u>Underlined items</u> denote recommended ones from my personal point of view)
 
 Books
 ======
