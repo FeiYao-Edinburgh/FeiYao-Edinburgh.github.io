@@ -30,7 +30,7 @@ Books
 - <b>2014</b>: Hong Kong, Shenzhen, Guangdong, Wuyishan/Fuzhou, Fujian, China (Jul); <u>Beijing, China</u> (Jun and Sep); <u>Hong Kong, China</u> (Jan)
 - <b>2013</b>: <u>Hangzhou, Zhejiang</u>, Dalian/<u>Dandong</u>, Liaoning, Tonghua/Erdaobaihe/Changchun, Jilin, Chengde, Hebei, Beijing, China (Aug); Hefei/Lu'an, Anhui, Nanjing, Jiangsu, China (Jul)
 - <b>2012</b>: <u>Shaoxing</u>/Ningbo, Zhejiang, China (Oct); Nanjing/Suzhou, Jiangsu, China (May); Xitang, Jiaxing, Zhejiang, China (Mar)
-- <b>2011</b>: <b>Shanghai, China</b> (Sep)
+- <b>2011</b>: <b><u>Shanghai, China</u></b> (Sep)
 - <b>2010</b>: Hefei, Anhui, China (Oct)
-- <b>2009 and before</b>: Chizhou, Anhui, China
+- <b>2009 and before</b>: <b><u>Chizhou, Anhui</u></b>, China
 
