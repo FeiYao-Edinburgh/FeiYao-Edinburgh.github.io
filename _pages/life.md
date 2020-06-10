@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-Life and academy are mutually beneficial. I would like to travel ten thousand miles as well as read ten thousand books! Below I show you all the places that I have visisted and all the books that I have read so far. Pursuing PhD outside, cooking is a must skill. Fortunately, I seem quite good at it. Hence this page will likely to be updated in a future point by incorporating some dished I made. Also I will make this page more concise and readable.<br/>
+Life and academy are mutually beneficial. I would like to travel ten thousand miles as well as read ten thousand books! Below I show you all the places that I have visisted and all the books that I have read so far. Pursuing PhD outside, cooking is a must-learn skill. Fortunately, I seem quite good at it. Hence this page will likely to be updated in a future point by incorporating some dished I made. Also I will make this page more concise and readable.<br/>
 (<u>Underlined items</u> denote recommended ones from my personal point of view)
 
 Books
