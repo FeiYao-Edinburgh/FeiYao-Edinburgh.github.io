@@ -7,17 +7,8 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-Life and academy are mutually beneficial. I would like to travel ten thousand miles as well as read ten thousand books! Below I show you all the places that I have visisted and all the books that I have read so far. Pursuing PhD outside, cooking is a must-learn skill. Fortunately, I seem quite good at it. Hence this page will likely to be updated in a future point by incorporating some dished I made. Also I will make this page more concise and readable.<br/>
-(<u>Underlined items</u> denote recommended ones from my personal point of view)
+Life and academy are mutually beneficial. I would like to travel ten thousand miles as well as read ten thousand [books](https://feiyao-edinburgh.github.io/files/books.pdf).
 
-Books
-======
-- <b>2020</b>: <u>神雕侠侣（金庸）</u>、<u>射雕英雄传（金庸）</u>、<u>丰乳肥臀（莫言）</u>、<u>边城（沈从文）</u>、鼠疫（加缪）、<u>林徽因传（林杉）</u>、酒国（莫言）
-- <b>2019</b>: 尘埃落定（阿来）、<u>蛙（莫言）</u>、伪满洲国（迟子建）、<u>都挺好（阿耐）</u>、檀香刑（莫言）、恶意（东野圭吾）
-- <b>2018</b>: 云计算：深刻改变未来（张为民）、<u>围城（钱钟书）</u>、<u>人民的名义（周梅森）</u>、<u>白鹿原（陈忠实）</u>、杀死一只知更鸟（哈珀·李）、<u>偷影子的人（马克·李维）</u>、<u>人类的群星闪耀时（斯蒂芬·茨威格）</u>、泰国·海丝路的战略起点（宋歌，姜子钒）、柬埔寨千年的微笑（亲历者编辑部）、万历十五年（黄仁宇）、一本让你爱不释手的英国简史（江乐兴）、异类（马尔科姆·格拉德维尔）、活着（余华）、摆渡人（克莱尔·麦克福尔）、<u>穆斯林的葬礼（霍达）</u>、侦探俱乐部（东野圭吾）、秘密（东野圭吾）
-- <b>2017</b>: <u>挪威的森林（村上村树）</u>、<u>追风筝的人（卡勒德·胡赛尼）</u>、盛夏的方程式（东野圭吾）、<u>白夜行（东野圭吾）</u>、<u>嫌疑人X的献身（东野圭吾）</u>
-- <b>2016</b>: 变身（东野圭吾）、放学后（东野圭吾）、解忧杂货店（东野圭吾）
-- <b>2015 and before</b>: 失控（凯文·凯利）、<u>数据之巅（涂子沛）</u>、大数据时代（维克托•迈尔•舍恩伯格）、因为痛，所以叫青春（金兰都著，金勇译）、<u>明朝那些事（当年明月）</u>
 
 [Places](https://feiyao-edinburgh.github.io/files/map.html)
 ======
