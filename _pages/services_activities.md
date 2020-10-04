@@ -12,6 +12,7 @@ author_profile: true
   [Welcome Week Computing Induction](https://www.geos.ed.ac.uk/~gisteac/wkzero/) (Autumn 2019)<br/>
   Visual Analytics (Spring 2019)
 - Reviewer for Academic Journals<br/>
+  [Atmospheric Environment](https://www.journals.elsevier.com/atmospheric-environment) (2020-)<br/>
   [Open Geosciences](https://www.degruyter.com/view/journals/geo/geo-overview.xml) (2020-)<br/>
   [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (2019-)<br/>
   [Aerosol and Air Quality Research](http://www.aaqr.org/) (2018-)<br/>
