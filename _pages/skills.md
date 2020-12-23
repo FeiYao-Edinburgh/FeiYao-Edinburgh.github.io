@@ -7,6 +7,10 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
+- Platform<br/>
+  Proficient: PC, Workstation, Server<br/>
+  Intermediate: Cloud Computing (Amazon Web Service)<br/>
+  Basic: High Performance Computing (HPC)
 - Programming<br/>
   Proficient: Python, Shell<br/>
   Intermediate: Fortran, Latex, MATLAB, R, C<br/>
