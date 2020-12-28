@@ -8,10 +8,11 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 - Tutor & Demonstrator for<br/>
-  [Earth's Atmospheric Composition](https://sites.google.com/view/palmerteachinglab/home/atmoscomp?authuser=0) (Spring 2020)<br/>
+  [Earth's Atmospheric Composition](https://sites.google.com/view/palmerteachinglab/home/atmoscomp?authuser=0) (Spring 2020, 2021)<br/>
   [Welcome Week Computing Induction](https://www.geos.ed.ac.uk/~gisteac/wkzero/) (Autumn 2019)<br/>
   Visual Analytics (Spring 2019)
 - Reviewer for Academic Journals<br/>
+  [Atmospheric Environment](https://www.journals.elsevier.com/atmospheric-environment) (2020-)<br/>
   [Open Geosciences](https://www.degruyter.com/view/journals/geo/geo-overview.xml) (2020-)<br/>
   [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing) (2019-)<br/>
   [Aerosol and Air Quality Research](http://www.aaqr.org/) (2018-)<br/>
