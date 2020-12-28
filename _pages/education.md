@@ -11,7 +11,7 @@ author_profile: true
   Where: School of GeoSciences, The University of Edinburgh<br/>
   When: Sep 2018 - Aug 2021 (Expected)<br/>
   Major in: Atmospheric and Environmental Sciences<br/>
-  Supervisor: Prof Paul Palmer (1), Dr Caroline Nichol (2), Dr Massimo Bollasina (3)
+  Supervisor: Prof Paul Palmer (1), Dr Caroline Nichol (2), Dr Massimo Bollasina (A)
 - MSc<br/>
   Where: School of Urban Planning and Design, Peking University<br/>
   When: Aug 2015 - Jul 2018<br/>
