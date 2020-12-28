@@ -7,12 +7,24 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-- <b>Sep 2018 - Aug 2021 (expected)</b> PhD in Atmospheric and Environmental Sciences (Supervisors: [Prof Paul Palmer](https://www.ed.ac.uk/geosciences/people?person=1240) and [Dr Caroline Nichol](https://www.ed.ac.uk/geosciences/people?person=560), Advisor: [Dr Massimo Bollasina](https://www.ed.ac.uk/geosciences/people?person=3627)), School of GeoSciences, The University of Edinburgh
-- <b>Aug 2015 - Jul 2018</b> MSc in Geography: Urban and Regional Planning (Supervisor: [Prof Jiansheng Wu](http://urban.pkusz.edu.cn/home/detail/facultydetail?titem=1&id=115&type=1)), School of Urban Planning and Design, Peking University
-- <b>Sep 2011 - Jul 2015</b> BSc in Geographical Information System (Supervisor: [Dr Xuepei Han](https://facultyold.ecnu.edu.cn/s/529/main.jspy)), School of Geography, East China Normal University
+- PhD<br/>
+  Where: School of GeoSciences, The University of Edinburgh<br/>
+  When: Sep 2018 - Aug 2021 (Expected)<br/>
+  Major in: Atmospheric and Environmental Sciences<br/>
+  Supervisor: Prof Paul Palmer (1), Dr Caroline Nichol (2), Dr Massimo Bollasina (3)
+- MSc<br/>
+  Where: School of Urban Planning and Design, Peking University<br/>
+  When: Aug 2015 - Jul 2018<br/>
+  Major in: Geography: Urban and Regional Planning<br/>
+  Supervisor: Prof Jiansheng Wu
+- BSc<br/>
+  Where: School of Geography, East China Normal University<br/>
+  When: Sep 2011 - Jul 2015<br/>
+  Major in: Geographical Information System<br/>
+  Supervisor: Dr Xuepei Han (A)
 - Honors & Awards (Selected)<br/>
   China Scholarships Council (CSC)/University of Edinburgh Scholarships, awarded by CSC, 2018.06<br/>
-  National Scholarship,  awarded by Ministry of Education of the People’s Republic of China, 2017.11, 2016.12, 2013.11<br/>
+  National Scholarship, awarded by Ministry of Education of the People’s Republic of China, 2017.11, 2016.12, 2013.11<br/>
   Academic Innovative Award, honored by Peking University, 2017.11, 2016.12<br/>
   Shanghai Excellent Graduate Title, honored by Shanghai Municipal Education Commission, 2015.06
 
