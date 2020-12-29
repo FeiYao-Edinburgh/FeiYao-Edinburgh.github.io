@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/) at the School of GeoSciences, [the University of Edinburgh](https://www.ed.ac.uk/). My research interests primarily lie in the area of understanding spatiotemporal variability of particulate matter (PM) and PM’s downstream impacts (e.g. population exposure, solar photovoltaic electricity, etc.) by leveraging multisource data and cutting-edge models.
+I am a PhD student working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/) at the School of GeoSciences, [the University of Edinburgh](https://www.ed.ac.uk/). My research interests primarily lie in leveraging multisource data and cutting-edge models to understand spatiotemporal variability of particulate matter (PM) and PM’s downstream impacts (e.g. population exposure, solar photovoltaic electricity, etc.).
 
 Prior to joining the University of Edinburgh, I obtained my Master’s degree at [Peking University](https://www.pku.edu.cn/) (PKU), where my research activities centered around using VIIRS AOD to interpret the spatiotemporal distribution of PM<sub>2.5</sub> in China, jointly supported by [Jiansheng Wu's group](http://web.pkusz.edu.cn/wujs) and [Weifeng Li's group](http://fac.arch.hku.hk/upad/wfli/). I received my Bachelor’s degree from [East China Normal University](https://www.ecnu.edu.cn/) (ECNU), where my research career started thanks to several research training programs ECNU provided. I was born in Chizhou of Anhui Province in central China, a small and peaceful city adjacent to the Yangtze River.
 
