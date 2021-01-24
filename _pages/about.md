@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Biography
-------
 
 I am a PhD student working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/) at the School of GeoSciences, [the University of Edinburgh](https://www.ed.ac.uk/). My research interests primarily lie in leveraging satellite observations and cutting-edge models to understand spatiotemporal variabilities of particulate matter (PM) and PM’s downstream impacts (e.g. population exposure, solar photovoltaic electricity, etc.).
 
