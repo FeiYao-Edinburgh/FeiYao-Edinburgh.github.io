@@ -16,9 +16,9 @@ Prior to joining the University of Edinburgh, I obtained my Master’s degree at
 
 Education
 ======
-<b>Sep 2018 - Aug 2021 (Expected)</b> PhD in Atmospheric and Environmental Sciences (Supervisor: Prof. Paul I. Palmer), School of GeoSciences, The University of Edinburgh<br/>
-<b>Aug 2015 - Jul 2018</b> MSc in Geography: Urban and Regional Planning (Supervisor: Prof. Jiansheng Wu), Scool of Urban Planning and Design, Peking University<br/>
-<b>Sep 2011 - Jul 2015</b> BSc in Geographical Information System (Supervisor: Dr. Xuepei Han), School of Geography, East China Normal University
+PhD in Atmospheric and Environmental Sciences (Supervisor: Prof. Paul I. Palmer), School of GeoSciences, The University of Edinburgh, Sep 2018 - Aug 2021 (Expected)<br/>
+MSc in Geography: Urban and Regional Planning (Supervisor: Prof. Jiansheng Wu), Scool of Urban Planning and Design, Peking University, Aug 2015 - Jul 2018<br/>
+BSc in Geographical Information System (Supervisor: Dr. Xuepei Han), School of Geography, East China Normal University, Sep 2011 - Jul 2015
 
 Honors & Awards (Selected)
 ======
