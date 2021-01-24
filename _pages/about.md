@@ -16,16 +16,16 @@ Prior to joining the University of Edinburgh, I obtained my Master’s degree at
 
 Education
 ======
-- <b>Sep 2018 - Aug 2021 (Expected)</b> PhD in Atmospheric and Environmental Sciences (Supervisor: Prof. Paul I. Palmer), School of GeoSciences, The University of Edinburgh
-- <b>Aug 2015 - Jul 2018</b> MSc in Geography: Urban and Regional Planning (Supervisor: Prof. Jiansheng Wu), Scool of Urban Planning and Design, Peking University
-- <b>Sep 2011 - Jul 2015</b> BSc in Geographical Information System (Supervisor: Dr. Xuepei Han), School of Geography, East China Normal University
+<b>Sep 2018 - Aug 2021 (Expected)</b> PhD in Atmospheric and Environmental Sciences (Supervisor: Prof. Paul I. Palmer), School of GeoSciences, The University of Edinburgh<br/>
+<b>Aug 2015 - Jul 2018</b> MSc in Geography: Urban and Regional Planning (Supervisor: Prof. Jiansheng Wu), Scool of Urban Planning and Design, Peking University<br/>
+<b>Sep 2011 - Jul 2015</b> BSc in Geographical Information System (Supervisor: Dr. Xuepei Han), School of Geography, East China Normal University
 
 Honors & Awards (Selected)
 ======
-- China Scholarships Council(CSC)/University of Edinburgh (UoE) Scholarships, awarded by CSC and UoE, 2018.06
-- National Scholarship, awarded by Ministry of Education of the People’s Republic of China, 2017.11, 2016.12, 2013.11
-- Academic Innovative Award, honored by Peking University, 2017.11, 2016.12
-- Shanghai Excellent Graduate Title, honored by Shanghai Municipal Education Commission, 2015.06
+China Scholarships Council(CSC)/University of Edinburgh (UoE) Scholarships, awarded by CSC and UoE, 2018.06<br/>
+National Scholarship, awarded by Ministry of Education of the People’s Republic of China, 2017.11, 2016.12, 2013.11<br/>
+Academic Innovative Award, honored by Peking University, 2017.11, 2016.12<br/>
+Shanghai Excellent Graduate Title, honored by Shanghai Municipal Education Commission, 2015.06
 
 Collaboration
 ======
