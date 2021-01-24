@@ -14,23 +14,20 @@ Prior to joining the University of Edinburgh, I obtained my Master’s degree at
 
 [Download my curriculum vitae (CV)](https://feiyao-edinburgh.github.io/files/FeiCV.pdf)
 
-Education
-------
+# Education
 
 PhD in Atmospheric and Environmental Sciences (Supervisor: Prof. Paul I. Palmer), School of GeoSciences, The University of Edinburgh, Sep 2018 - Aug 2021 (Expected)<br/>
 MSc in Geography: Urban and Regional Planning (Supervisor: Prof. Jiansheng Wu), Scool of Urban Planning and Design, Peking University, Aug 2015 - Jul 2018<br/>
 BSc in Geographical Information System (Supervisor: Dr. Xuepei Han), School of Geography, East China Normal University, Sep 2011 - Jul 2015
 
-Honors & Awards (Selected)
-------
+# Honors & Awards (Selected)
 
 China Scholarships Council(CSC)/University of Edinburgh (UoE) Scholarships, awarded by CSC and UoE, 2018.06<br/>
 National Scholarship, awarded by Ministry of Education of the People’s Republic of China, 2017.11, 2016.12, 2013.11<br/>
 Academic Innovative Award, honored by Peking University, 2017.11, 2016.12<br/>
 Shanghai Excellent Graduate Title, honored by Shanghai Municipal Education Commission, 2015.06
 
-Collaboration
-------
+# Collaboration
 
 Alone we can do so little; together we can do so much! If you are interested in pursuing science by using satellite remotely sensed data (e.g. MODIS, VIIRS, etc.), data-driven models (e.g. panel data regression models, geographically weighted regression models, random forests, etc.), process-driven models (e.g. GEOS-Chem, PVLIB-Python, etc.), and so forth, you are welcome to contact me for potential co-operations!
 
