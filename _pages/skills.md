@@ -13,7 +13,7 @@ author_profile: true
   Basic: High Performance Computing (HPC)
 - Programming<br/>
   Proficient: Python, Shell<br/>
-  Intermediate: Fortran, Latex, MATLAB, R, C<br/>
+  Intermediate: FORTRAN, Latex, MATLAB, R, C<br/>
   Basic: IDL, Perl, C#, JavaScript, VB
 - Models<br/>
   Proficient: Temporal/Spatial statistical models such as the panel data regression model and the (multi-scale) geographically (temporal) weighted regression model ([GWR](https://github.com/pysal))<br/>
