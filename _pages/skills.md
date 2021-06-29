@@ -9,8 +9,7 @@ author_profile: true
 
 - Platform<br/>
   Proficient: PC, Workstation, Server<br/>
-  Intermediate: Cloud Computing, e.g. Amazon Web Service<br/>
-  Basic: High Performance Computing (HPC)
+  Intermediate: Cloud Computing (e.g. Amazon Web Service), High Performance Computing (HPC)
 - Programming<br/>
   Proficient: Python, Shell<br/>
   Intermediate: FORTRAN, Latex, MATLAB, R, C<br/>
