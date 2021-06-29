@@ -15,8 +15,8 @@ author_profile: true
   Intermediate: FORTRAN, Latex, MATLAB, R, C<br/>
   Basic: IDL, Perl, C#, JavaScript, VB
 - Models<br/>
-  Proficient: 3-D Model of Atmospheric Chemistry and Transport, e.g. [GEOS-Chem](http://acmg.seas.harvard.edu/geos/), [Machine Learning](https://scikit-learn.org/stable/), e.g. back propagation neural network and random forest, and PV Performance Modelling, e.g. [PVLIB-Python](https://pvlib-python.readthedocs.io/en/stable/index.html)<br/>
-  Intermediate: Spatiotemporal statistical models, e.g. panel data regression models and (multi-scale) geographically (temporal) weighted regression models ([GWR](https://github.com/pysal))<br/>
+  Proficient: 3-D model of atmospheric chemistry and transport (e.g. [GEOS-Chem](http://acmg.seas.harvard.edu/geos/)), machine learning (e.g. [scikit-learn](https://scikit-learn.org/stable/)), and solar photovoltaic performance modelling (e.g. [PVLIB-Python](https://pvlib-python.readthedocs.io/en/stable/index.html))<br/>
+  Intermediate: Spatiotemporal statistical models (e.g. panel data regression models and [(multi-scale) geographically (temporal) weighted regression models](https://github.com/pysal))<br/>
   Basic: Cellular Automata (CA), Agent-based models (ABM)
 - Software<br/>
   Proficient: ArcGIS Desktop, Microsoft Office<br/>
