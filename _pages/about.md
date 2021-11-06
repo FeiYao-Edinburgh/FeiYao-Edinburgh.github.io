@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Consultant working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/). The long-term goal of my research is to utilize Earth observation data and cutting-edge models to address scientific and technical questions that of direct environmental policy relevance. Currently I am simultaneously focusing on the following three research topics: 1) Identifying coherent patterns in hyperspectral data associated with the phase transition in desert locusts; 2) Linking particulate matter (PM) pollution with photovoltaic (PV) power output; and 3) Satellite-based estimation of ground-level PM concentrations and associated population exposures.
+I am a Research Consultant working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/). The long-term goal of my research is to utilize Earth observation data and cutting-edge models to address scientific and technical questions that are of direct environmental policy relevance. Currently I am simultaneously focusing on the following three research topics: 1) Identifying coherent patterns in hyperspectral data associated with the phase transition in desert locusts; 2) Linking particulate matter (PM) pollution with photovoltaic (PV) power output; and 3) Satellite-based estimation of ground-level PM concentrations and associated population exposures.
 
 <!-- at the [School of GeoSciences](https://www.ed.ac.uk/geosciences), the [University of Edinburgh](https://www.ed.ac.uk/) -->
 
