@@ -14,7 +14,7 @@ I am a Research Consultant working with Prof. Paul Palmer in the [Atmospheric Co
 
 <!-- Prior to joining the University of Edinburgh, -->
 
-I expect to obtain my PhD degree from the [University of Edinburgh](https://www.ed.ac.uk/) soon. The overarching goal of my PhD project is to use a mixture of data and models to understand PM pollution and PV power output with a focus on their links. I obtained my Master’s degree from [Peking University](https://www.pku.edu.cn/) (PKU), where my research activities centered around using VIIRS AOD to map the spatiotemporal distribution of ground-level PM<sub>2.5</sub> concentrations in China. I obtained my Bachelor’s degree from [East China Normal University](https://www.ecnu.edu.cn/) (ECNU), where my research career started thanks to several research training programs ECNU provided.
+I have passed my PhD viva and I will obtain my PhD degree from the [University of Edinburgh](https://www.ed.ac.uk/) soon. The overarching goal of my PhD project is to use a mixture of data and models to understand PM pollution and PV power output with a focus on their links. I obtained my Master’s degree from [Peking University](https://www.pku.edu.cn/) (PKU), where my research activities centered around using VIIRS AOD to map the spatiotemporal distribution of ground-level PM<sub>2.5</sub> concentrations in China. I obtained my Bachelor’s degree from [East China Normal University](https://www.ecnu.edu.cn/) (ECNU), where my research career started thanks to several research training programs ECNU provided.
 
 <!-- , jointly supported by [Jiansheng Wu's group](http://web.pkusz.edu.cn/wujs) of PKU and [Weifeng Li's group](http://fac.arch.hku.hk/upad/wfli/) of the University of Hong Kong. -->
 
