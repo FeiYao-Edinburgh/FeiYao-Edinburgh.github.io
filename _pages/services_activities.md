@@ -12,6 +12,8 @@ author_profile: true
   [Welcome Week Computing Induction](https://www.geos.ed.ac.uk/~gisteac/wkzero/) (Autumn 2019)<br/>
   Visual Analytics (Spring 2019)
 - Reviewer for Academic Journals<br/>
+  [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (2022-)<br/>
+  [Remote Sensing Applications: Society and Environment](https://www.journals.elsevier.com/remote-sensing-applications-society-and-environment) (2021-)<br/>
   [Journal of the Royal Statistical Society: Series C](https://rss.onlinelibrary.wiley.com/journal/14679876) (2021-)<br/>
   [Atmospheric Environment](https://www.journals.elsevier.com/atmospheric-environment) (2020-)<br/>
   [Open Geosciences](https://www.degruyter.com/view/journals/geo/geo-overview.xml) (2020-)<br/>
