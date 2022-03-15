@@ -8,17 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Consultant working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/). The long-term goal of my research is to utilize Earth observation data and cutting-edge models to address scientific and technical questions that are of direct environmental policy relevance. Currently I am simultaneously focusing on the following three research topics: 1) Identifying coherent patterns in hyperspectral data associated with the phase transition in desert locusts; 2) Linking particulate matter (PM) pollution with photovoltaic (PV) power output; and 3) Satellite-based estimation of ground-level PM concentrations and associated population exposures.
+Dr Yao is a post-doctoral fellow working with Prof. Paul Palmer at the School of School of GeoSciences, the University of Edinburgh which is also the place where he obtained his PhD degree in Atmospheric and Environmental Science. Before joining the University of Edinburgh, he obtained his Master’s degree in Geography from Peking University, the best university in China, while he obtained his Bachelor’s degree in Geographical Information Science from East China Normal University, another famous university in China.
 
-<!-- at the [School of GeoSciences](https://www.ed.ac.uk/geosciences), the [University of Edinburgh](https://www.ed.ac.uk/) -->
-
-<!-- Prior to joining the University of Edinburgh, -->
-
-I have passed my PhD viva with minor correction. I anticipate that I will obtain my PhD degree from the [University of Edinburgh](https://www.ed.ac.uk/) early 2022. The overarching goal of my PhD project is to use a mixture of data and models to understand PM pollution and PV power output with a focus on their links. I obtained my Master’s degree from [Peking University](https://www.pku.edu.cn/) (PKU), where my research activities centered around using VIIRS AOD to map the spatiotemporal distribution of ground-level PM<sub>2.5</sub> concentrations in China. I obtained my Bachelor’s degree from [East China Normal University](https://www.ecnu.edu.cn/) (ECNU), where my research career started thanks to several research training programs ECNU provided.
-
-<!-- , jointly supported by [Jiansheng Wu's group](http://web.pkusz.edu.cn/wujs) of PKU and [Weifeng Li's group](http://fac.arch.hku.hk/upad/wfli/) of the University of Hong Kong. -->
-
-<!-- I was born in Chizhou of Anhui Province in central China, a small and peaceful city adjacent to the Yangtze River. -->
+The long-term goal of Dr Yao’s research is to utilize Earth observation data and state-of-art models to address important scientific and technical questions that at the same time are relevant to policy makers. Currently he is simultaneously focusing on the following three research topics: 1) detecting methane point sources from satellites using google earth engine and deep learning (TensorFlow); 2) understanding the linkage between particulate matter (PM) pollution and photovoltaic (PV) power output using models of atmospheric composition (GEOS-Chem) and PV performance (PVLIB-Python); and 3) deriving ground-level PM concentrations from satellites using models of atmospheric composition, statistics, and machine learning.
 
 Alone we can do so little; together we can do so much! If you are interested in pursuing science by using Earth observation data (e.g. MODIS, VIIRS, etc.), data-driven models (e.g. panel data regression models, geographically weighted regression models, random forests, etc.), process-driven models (e.g. GEOS-Chem, PVLIB-Python, etc.), and so forth, you are welcome to contact me for potential co-operations!
 
