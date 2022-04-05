@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fei Yao"
 title_separator          : "-"
 name                     : &name "Fei Yao"
-description              : &description "PhD candidate @ U. Edinburgh"
+description              : &description "Postdoctoral fellow @ U. Edinburgh"
 url                      : https://feiyao-edinburgh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FeiYao-Edinburgh/FeiYao-Edinburgh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fei Yao"
   avatar           : "me_at_cambodia.jpg"
-  bio              : "PhD candidate @ U. Edinburgh"
+  bio              : "Postdoctoral fellow @ U. Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
