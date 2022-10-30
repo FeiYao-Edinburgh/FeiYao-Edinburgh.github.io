@@ -14,6 +14,7 @@ author_profile: true
 - Reviewer for Academic Journals<br/>
   [International Journal of Digital Earth](https://mc.manuscriptcentral.com/ijde) (2022-)<br/>
   [Remote Sensing](https://www.mdpi.com/journal/remotesensing) (2022-)<br/>
+  [Geocarto International](https://www.tandfonline.com/journals/tgei20) (2022-)<br/>
   [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (2022-)<br/>
   [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (2022-)<br/>
   [Remote Sensing Applications: Society and Environment](https://www.journals.elsevier.com/remote-sensing-applications-society-and-environment) (2021-)<br/>
