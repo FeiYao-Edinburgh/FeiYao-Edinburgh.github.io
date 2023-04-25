@@ -12,6 +12,9 @@ main:
   - title: "Skills"
     url: /skills/
     
+  - title: "CV"
+    url: /files/FeiCV.pdf
+    
   - title: "Life"
     url: /life/
 
