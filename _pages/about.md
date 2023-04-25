@@ -14,4 +14,4 @@ The long-term goal of Dr Yao’s research is to utilize Earth observation data a
 
 Alone we can do so little; together we can do so much.
 
-Dr Yao highly welcomes cooperations!
+Dr Yao highly welcomes cooperations.
