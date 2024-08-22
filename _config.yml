@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fei Yao @ U. Edinburgh >"
+title                    : "Fei Yao @ U. Edinburgh $\rightarrow$"
 title_separator          : "-"
 name                     : &name "Fei Yao"
-description              : &description "NCEO Research Scientist @ U. Edinburgh $\rightarrow$"
+description              : &description "NCEO Research Scientist @ U. Edinburgh"
 url                      : https://feiyao-edinburgh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FeiYao-Edinburgh/FeiYao-Edinburgh.github.io"
