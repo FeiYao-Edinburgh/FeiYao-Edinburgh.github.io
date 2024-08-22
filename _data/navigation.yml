@@ -1,20 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/    
+  # - title: "Presentations"
+  #   url: /presentations/    
 
-  - title: "Services"
-    url: /services_activities/
+  # - title: "Services"
+  #   url: /services_activities/
 
-  - title: "Skills"
-    url: /skills/
+  # - title: "Skills"
+  #   url: /skills/
     
-  - title: "CV"
-    url: /files/FeiCV.pdf
+  # - title: "CV"
+  #   url: /files/FeiCV.pdf
     
-  - title: "Life"
-    url: /life/
+  # - title: "Life"
+  #   url: /life/
 
