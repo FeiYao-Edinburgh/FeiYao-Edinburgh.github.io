@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[Dr Yao](https://www.ed.ac.uk/geosciences/people/profile/?person=17187) is currently employed as a Research Scientist for National Centre for Earth Observation at the University of Edinburgh. He holds a PhD in Atmospheric and Environmental Science from the University of Edinburgh, a Master's degree in Geography (Urban and Regional Planning) from Peking University, and a Bachelor's degree in Geographical Information System from East China Normal University.
+[Dr Fei Yao](https://www.ed.ac.uk/geosciences/people/profile/?person=17187) is currently a Research Scientist at the National Centre for Earth Observation and the School of GeoSciences at the University of Edinburgh. His long-term research goal is to understand the processes that govern the observed variations in Earth's atmospheric composition and to investigate their implications for air quality, climate, and renewable energy. He has co-authored 19 publications in prestigious journals, including 9 as (co-)first and/or corresponding authors.
 
-The long-term goal of Dr Yao’s research is to utilize Earth observation data and state-of-science models to address critical research questions that at the same time are relevant to policy makers. At present, he is simultaneously focusing on: 1) Satellite remote sensing of atmospheric composition and 2) Global atmospheric chemistry and climate change as related to energy systems.
+Research Interests: 1) Socioeconomic drivers of atmospheric composition variations and their effects on energy, environment, and health; 2) Satellite remote sensing of atmospheric composition.
 
 [Download CV](https://feiyao-edinburgh.github.io/files/fyao_curriculum_vitae.pdf)<br/>
 <i>Last updated: 11 February, 2025</i>
