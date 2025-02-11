@@ -13,4 +13,4 @@ redirect_from:
 The long-term goal of Dr Yao’s research is to utilize Earth observation data and state-of-science models to address critical research questions that at the same time are relevant to policy makers. At present, he is simultaneously focusing on: 1) Satellite remote sensing of atmospheric composition and 2) Global atmospheric chemistry and climate change as related to energy systems.
 
 [Download CV](https://feiyao-edinburgh.github.io/files/fyao_curriculum_vitae.pdf)<br/>
-<i>Last updated: 10 October, 2024</i>
+<i>Last updated: 11 February, 2025</i>
