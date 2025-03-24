@@ -13,4 +13,4 @@ redirect_from:
 Research Interests: 1) Socioeconomic drivers of atmospheric composition variations and their effects on energy, environment, and health; 2) Satellite remote sensing of atmospheric composition.
 
 [Download CV](https://feiyao-edinburgh.github.io/files/fyao_curriculum_vitae.pdf)<br/>
-<i>Last updated: 11 February, 2025</i>
+<i>Last updated: 31 March, 2025</i>
